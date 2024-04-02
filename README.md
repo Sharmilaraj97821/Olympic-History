@@ -4,11 +4,13 @@ In this Project,i have performed some analysis on Olympic History data using SQL
 ## Dataset Tables:
 The data contains 120 years of olympics history. There are 2 daatsets, 
 
-1- athletes : it has information about all the players participated in olympics.
+1- athletes1 : it has information about all the players participated in olympics.
 
-2- athlete_events : it has information about all the events happened over the year.(athlete id refers to the id column in athlete table).
+2- athlete_events1 : it has information about all the events happened over the year.(athlete id refers to the id column in athlete table).
 ## Tools Used:
-Excel,SQL Server Management Studio(SSMS)
+Excel
+
+SQL Server Management Studio(SSMS)
 ## Key Questions Explored:
 --1 which team has won the maximum gold medals over the years.
 
